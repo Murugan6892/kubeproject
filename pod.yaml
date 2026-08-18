@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: koshikaps6/mornimage:12
+          image: koshikaps6/mornimage:11
           imagePullPolicy: Always
